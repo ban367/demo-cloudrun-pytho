@@ -1,0 +1,21 @@
+.env
+.DS_Store
+.gcloudignore
+.gitignore
+.vscode/
+Makefile
+Dockerfile
+docker-compose.yml
+README.md
+functions/
+
+# Git
+.git
+.gitignore
+
+# Python
+requirements_local.txt
+.pytest_cache/
+__pycache__/
+test/
+venv/
